@@ -9,7 +9,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "prepare": "tsc",
+    "build": "tsc",
     "start": "tsc --watch",
     "test": "qunit test.js"
   },
